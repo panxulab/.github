@@ -4,7 +4,7 @@
 
 🧐 We do research in machine learning, especially in reinforcement learning, optimization, sampling, and data science.
 
-📄 Find most recent research papers on our [website](panxulab.github.io).
+📄 Find most recent research papers on our [website](https://panxulab.github.io).
 
 📧 Please contact pan.xu@duke.edu for any research discussion.
 
