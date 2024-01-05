@@ -1,8 +1,10 @@
-## Pan Xu's research lab at Duke
+## Pan Xu's research lab at the Duke University
 
-🎓 We are the team of researcher at Duke University lead by Dr. Pan Xu.
+🎓 We are a team of researchers at the Duke University lead by Dr. Pan Xu.
 
 🧐 We do research in machine learning, especially in reinforcement learning, optimization, sampling, and data science.
+
+📄 Find most recent research papers on our [website](panxulab.github.io).
 
 📧 Please contact pan.xu@duke.edu for any research discussion.
 
